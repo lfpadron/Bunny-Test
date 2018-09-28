@@ -17,6 +17,7 @@ This is the readme for the testing of the Bunny Inc position. The challenge is t
 - Luis Padron - web site design.pdf is the disign that can be used as input for web designers.
 - LinkedIn-TorreBio-ProfileMerger.html the html scaffolding of the web page that can be used for the web designers to build the web application.
 - Luis Padron Bunny Inc Test.pdf the output of the previous file.
+- checkmark.png the checkmark image.
 - readme.md this file.
 
 
